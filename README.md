@@ -7,7 +7,7 @@ With the advance of next-generation sequencing (NGS) technologies, increasingly 
 
 PoolHap is composed of two main parts: 
 
-* The first part is to infer the haplotype frequencies based on known haplotypes. This is the case for our field experiments, RNA-Seq experiments. We have a paper in press: PoolHap paper: haplotype-known part
+* The first part is to infer the haplotype frequencies based on known haplotypes. This is the case for our field experiments, RNA-Seq experiments. We have a paper in press: [PoolHap: Inferring Haplotype Frequencies from Pooled Samples by Next Generation Sequencing](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0015292)
 * The second part is to infer the frequencies with unknown haplotypes. We use MCMC sampling strategy to "guess" the optimal haplotype configurations. This part is still not mature enough for publication. 
 
-The User Manual can be found here and the actual programm can be found here.
+The User Manual can be found [here](https://github.com/Gregor-Mendel-Institute/poolhap/blob/master/UsersManual4PoolHap.pdf) and the actual programm can be found [here](https://github.com/Gregor-Mendel-Institute/poolhap/blob/master/PoolHap.tar.gz).
